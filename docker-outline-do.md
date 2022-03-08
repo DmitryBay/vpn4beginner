@@ -22,6 +22,7 @@ https://www.digitalocean.com/
 
 
 ##### 3 Создание сервера.
+![DO select server](https://github.com/DmitryBay/vpn4beginner/blob/master/images/1.jpg?raw=true)
 1. Нажимаем зеленую кнопку Create -> Create droplet
 2. Выбираем следующие параметры:
 - Ubuntu 20.04 / Basic / Regular Intel with SSD / 5$ сервер
@@ -31,6 +32,7 @@ https://www.digitalocean.com/
 - Кликаем- создать, и ждем около 5-10 минут. 
 
 ##### 4 переходим в консоль. 
+![DO select server](https://github.com/DmitryBay/vpn4beginner/blob/master/images/2.jpg?raw=true)
 В вкладке Projects, выбираем проект в котором вы создали droplet.
 
 Найдите ваш IP адрес, это 4 числа разделенные точками. 
